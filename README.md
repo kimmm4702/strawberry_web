@@ -1,2 +1,2 @@
 # strawberry_web
-Designing a personal website for to promote a business
+Designing a personal website to promote a business
